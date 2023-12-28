@@ -1,0 +1,33 @@
+{
+    "Setosa": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 19.0
+    },
+    "Versicolor": {
+        "precision": 1.0,
+        "recall": 0.9230769230769231,
+        "f1-score": 0.9600000000000001,
+        "support": 13.0
+    },
+    "Virginica": {
+        "precision": 0.9285714285714286,
+        "recall": 1.0,
+        "f1-score": 0.962962962962963,
+        "support": 13.0
+    },
+    "accuracy": 0.9777777777777777,
+    "macro avg": {
+        "precision": 0.9761904761904763,
+        "recall": 0.9743589743589745,
+        "f1-score": 0.974320987654321,
+        "support": 45.0
+    },
+    "weighted avg": {
+        "precision": 0.9793650793650793,
+        "recall": 0.9777777777777777,
+        "f1-score": 0.9777448559670783,
+        "support": 45.0
+    }
+}
